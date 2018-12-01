@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "802138825334",
+    "firebase_url": "https://pharmacyordering.firebaseio.com",
+    "project_id": "pharmacyordering",
+    "storage_bucket": "pharmacyordering.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802138825334:android:040d9ea92f73a5c2",
+        "android_client_info": {
+          "package_name": "com.example.data.pharmacyordering"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802138825334-2d5orpuheac2d2kaaiq5j1meq3b93dfi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.data.pharmacyordering",
+            "certificate_hash": "a03fd1357a48d598c5bcbee98c9bf1241ea7b22e"
+          }
+        },
+        {
+          "client_id": "802138825334-394hp3qo5rron56gt77ogiqufr46d518.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy3SA4cllUYmdMLmX1yxTAXUWp5HoZneQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802138825334-394hp3qo5rron56gt77ogiqufr46d518.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
